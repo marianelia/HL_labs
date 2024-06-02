@@ -1,3 +1,6 @@
 [submodule "lab0"]
 	path = lab_0
 	url = https://github.com/marianelia/hl_mai_lab_00
+[submodule "hl_mai_lab_00"]
+	path = hl_mai_lab_00
+	url = https://github.com/marianelia/hl_mai_lab_00
