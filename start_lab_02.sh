@@ -1,1 +1,0 @@
-docker-compose -f lab_02_docker-compose.yml up
